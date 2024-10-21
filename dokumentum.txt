@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Balogh Szabolcs
+osztály: 10C
